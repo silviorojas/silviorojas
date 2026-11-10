@@ -8,4 +8,6 @@
   Network administrator with experience in both public sector and international corporate environments.
 </p>
 
-<img align='center' src='https://github.com/silviorojas/silviorojas.github.io/raw/main/images/abstract.gif' width='600'>
+<div align="center">
+  <img src="https://github.com/silviorojas/silviorojas.github.io/raw/main/images/abstract.gif" width="600" />
+</div>
